@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Local environment files (keep the checked-in template)
+.env
+.env.*
+!.env.example
+
+# Build output and test artifacts
+dist/
+coverage/
+
+# Logs and local editor/OS files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Uploaded user files and local database data
+uploads/
+data/

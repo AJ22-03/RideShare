@@ -1,0 +1,13 @@
+.full-width {
+  width: 100%;
+}
+
+.nav-links a.active {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+.footer a,
+.footer span {
+  color: var(--muted-color);
+}
